@@ -1,0 +1,16 @@
+.my-profile{
+    border-radius: 50%;
+}
+
+div{
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.layer{
+    grid-area: 1 /1 / -6 / -1;
+}
+
+.education{
+     margin-bottom: 50px;
+}
+
